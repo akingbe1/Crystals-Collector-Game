@@ -1,0 +1,58 @@
+body {
+	background-color: yellow;
+}
+
+h1 {
+	font-size: 30px;
+	color: red;
+	font-weight: bold;
+}
+
+#button1 {
+	background: url(../images/diamond1.png);
+	background-repeat: no-repeat;
+	height: 95px;
+	width: 100px;
+}
+
+#button2 {
+	background: url(../images/diamond2.png);
+	background-repeat: no-repeat;
+	height: 95px;
+	width: 100px;
+
+}
+
+#button3 {
+	background: url(../images/diamond3.png);
+	background-repeat: no-repeat;
+	height: 95px;
+	width: 100px;
+	
+}
+
+#button4 {
+	background: url(../images/diamond4.png);
+	background-repeat: no-repeat;
+	height: 95px;
+	width: 100px;
+	
+}
+
+#instructions {
+	font-family: "Times New Roman", Times, serif;
+	color: white;
+	background-color: blue;
+	width: 50%;
+	margin-top: 20px;
+
+}
+
+#stats {
+	background-color: green;
+	width: 25%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
